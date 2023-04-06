@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shahab namvar
-- 👀 I’m interested in programing and learning with others
+- 👀 I’m interested in programing and learning with team
 - 🌱 I’m currently learning microservices and nats streaming server
 - 📫 How to reach me shahabnamvar36@gmail.com
 
