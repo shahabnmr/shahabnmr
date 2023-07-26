@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahab namvar
 - 👀 I’m interested in programing and learning with team
-- 🌱 I’m currently working on project base on microservice with nats-streamingserver and express and postgresql(for myself)
+- 🌱 I’m currently working on project base on microservice with nats-streamingserver and express and postgresql(for myself) and learning nextjs
 - 📫 How to reach me shahabnamvar36@gmail.com
 
 <!---
